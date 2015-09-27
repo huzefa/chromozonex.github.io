@@ -1,0 +1,130 @@
+<!DOCTYPE html><html><head>  
+    <title>Huzefa Fatakdawala</title>
+    <!--- This is a horrible idea. I should really use a favicon.ico. Besides, this won't work in IE." -->
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEQEQAAARAAARARAAABEAABEBEAAAEQAAEQEQAAARAAARARAAABEAABEBEAAAEQAAEQEQAAARERERAREREBEREREBEREQEQAAEQEQAAARAAARARAAABEAABEBEAAAEQAAEQEQAAARAAARARAAABEAABEBEREREQAAEQERERE8nwAAPJ8AADyfAAA8nwAAPJ8AADyfAAA8nwAAAIEAAACBAAA8nwAAPJ8AADyfAAA8nwAAPJ8AADyAAAA8gAAA" rel="icon" type="image/x-icon" />
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <section>
+
+        <!--
+            Lists are a very important part of any html page - the can be a list of links, a list of 
+products, the steps of a recipe etc.
+            Each list has an <ul> element that creates the list and each item in the list needs a <li> tag. 
+
+            Try editing the list items below and even adding a new actor to the movie poster by creating a 
+new <li> with a closing tag </li> 
+        -->
+
+        <ul class="actors">
+            <li>About</li>
+            <li>Projects</li>
+            <li><a href="https://ece.uwaterloo.ca/~hafatakd/files/resume" style="text-decoration:none; color:white">Resume</a></li>
+            <li><a href="https://github.com/ChromoZoneX" style="text-decoration:none; color:white">Github</a></li>
+            <li><a href="mailto:hafatakd@uwaterloo.ca"style="text-decoration:none; color:white">Contact</a></li>
+        </ul>
+      
+
+        <!--
+            The <h1> is a heading tag and as it is the most important heading it should be your film name.
+            Try changing both the title and subtitle of your movie.
+        -->
+        <h1>Huzefa Fatakdawala</h1>
+        
+        <h2>Student, 3B Computer Engineering, University of Waterloo</h2>
+
+
+         <footer class="credits">
+
+           <p><strong>Copyright 2015 Huzefa Fatakdawala</strong></p>
+        </footer>
+
+     </section>
+    </div>
+
+    <style>
+    /*
+        We are now inside a <style> tag.  Everything inside a <style> tag is called CSS (Cascading Style 
+Sheets) and is used to define the look and feel of the webpage.
+        Notice how the comments are written slightly differnt in CSS compared to HTML using different 
+characters at the beginning and end of a comment.
+    */
+
+    body {
+        background-color:#051c1c;
+        background-image:url("");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: top center;
+        color:white;
+        font-family:'Trebuchet MS', sans-serif;  
+        text-align:center;     
+        padding:0; 
+    }
+    .wrapper {
+        margin:70px auto 30px;
+        max-width:850px;
+        padding:0px;
+        position: relative;
+        /*
+            Below is the css for text shadow. The values are for x-offset, y-offset, blur and then colour.
+            Try changing the values to see how it effects the text shadow on the poster...
+        */
+        text-shadow: 1px 1px 4px black;
+    }
+    h1 , h2 {
+        font-family:georgia, serif;
+        font-style: italic;
+        font-weight: normal;
+    }
+    h1 {
+        font-size:116px;
+        letter-spacing: 2px;
+        margin-top:50px;
+        margin-bottom:0;
+        line-height: 1em;
+    }
+    h2 {
+        margin-top:30px;
+        margin-bottom:100px;  
+    }
+    .actors {
+        list-style-type: none;
+      
+        text-transform: uppercase;
+        font-size: 20px;
+        margin:0 0 40px 0;
+    }
+    .actors li {
+        display: inline-block;
+        margin:0 20px;
+    }
+
+    blockquote {
+        display: inline-block;
+        width: 28%;
+        margin:0 2%;
+        font-size: 20px;
+    }
+    blockquote .star {
+        font-size: 40px;
+        display: block;
+    }
+    blockquote footer {
+        display: block;
+        font-size: 80%;
+    }
+    
+    .credits {
+        text-transform: uppercase;
+        font-size:7px;
+    }
+    .credits strong {
+         font-size:17px;
+    }
+    </style>
+
+</body></html>

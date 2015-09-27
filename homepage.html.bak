@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Huzefa Fatakdawala | University of Waterloo</title>
+  </head>
+  <body>
+        <h1>Webpage under construction!</h1>
+        <hr> <!--This is a horizontal line -->
+        <p>     My name is Huzefa Fatakdawala. I am an undergraduate student in the ECE 
+department. <br>
+                If you would like to reach me, please send me an email at the address given 
+below.</p>
+        <!--<p> Email: <a href="mailto:hafatakd@uwaterloo.ca">hafatakd@uwaterloo.ca</a></p> -->
+                Email: hafatakd [at] uwaterloo.ca
+  </body>
+</html>
+
