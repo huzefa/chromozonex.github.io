@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/huzefa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://huzefa.fatakdawala.com
+  * I am huzefa (https://keybase.io/huzefa) on keybase.
+  * I have a public key with fingerprint FB1D 6AB4 FC90 54EF 13B0  FBC2 A022 ABFE CEFE B477
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a01d1ecf79d389feed6801ea3746edd88fafcd2cdfa24aedfd8e8f4dd2e18e090a",
+            "fingerprint": "fb1d6ab4fc9054ef13b0fbc2a022abfecefeb477",
+            "host": "keybase.io",
+            "key_id": "a022abfecefeb477",
+            "kid": "0101a01d1ecf79d389feed6801ea3746edd88fafcd2cdfa24aedfd8e8f4dd2e18e090a",
+            "uid": "efa68c753c89db976cc8a0dc497f5519",
+            "username": "huzefa"
+        },
+        "service": {
+            "hostname": "huzefa.fatakdawala.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1475045409,
+    "expire_in": 157680000,
+    "prev": "381310db47aeaeeca534dce714cbe93778365e18c964f281154432e814702a4c",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbS1RRGB0trUYCI8xuhG3JIszOPpc550xPVmKXlzAyq4lpn72/rSf1
+nGnmjGY6Zb70EEUYoWBE0QWKkm4E3ZgudrNUqAgqKROsB3+AkIXtI/UQ9Nh+2exv
+r7W+9S2+nplTAsGM/LJ3V7aj5s6Mlw9PJQNbR2sWNyPLZU0o3IxqYfKCOgYJL1pr
+MxRGEpYwkTDDQLluMsUwOQALGRIGouhqCBgzDE44ZTJlnMgqAcaZAQZXGZMBGyCZ
+EkHFiNtONcRjcdvxhCy3MAsRS+XUlDQVOFYsiVtUJpIsE4sDBQ6WquuCWOMmfIYw
+Z5EElNiuqIlHdNLeP/D/2XdyUg44CRlU1xRqmMwy9RClBpEYVU2daxo2fWAC4g6p
+B4GuSe4TBJQqRqLWYFPwY/Xn+Ou/hBOP1DLSSOpICXXrhUYs7noudet8jOfFwr6E
+1xTzOY1gRX+rRS3bYSJOQWiAeMJ2HRTGAkk925fHqq5JqqZKZjGCvTE7DlHbR2i6
+GF8cvw00CEnFwAqWmMiNAAGgRFNURkHHKrXAVHTdUEKaiIKaIZXLBsaaqioyGKKB
+JBOVIn++PY6LwrKwSaqFZMKudoiXjANKPXoQmRrICAayszL9NQsEZ+T+Wb7XndMD
+xypSYz9GvlQdOpNuObyv70gimb5Rf3/0XM5y3NYTWLP54Kf9RelSe2Bj4QIcGYt6
+TrwvamU9njOu3erNItfyBmedv3h7tmNWlvLsicDNnNXPW08rtfnp80eLkvLU1Odd
+Cx8NLnt/ce4z1Ht9WsHSGuPersLU8kjd+rfBucPmprWh3Aj61rZo69eJ2SeMpgpc
+1N//bsrQj3Tqanr69+6q3py3xxfduHNp4Mh4a97Mob1FZ1cs4Qf65pV3d5QON76q
+XPWzoH3s1JOby7bd7X869CFcfnL+/a52tOP1nUjxQNfIuo8tZzZkluUv3bJ5pd2h
+X962E5dkDgWrLrx5Mb+nsmf39Qu/ACJOQyU=
+=AMbY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/huzefa
+
+==================================================================
